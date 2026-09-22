@@ -3,7 +3,7 @@
     <暖id>qmckanon</暖id>
     <version>1.0.0</version>
     <size>1</size>
-    <name>My Web App</name>
+    <name>My Web App</index.html>
     <description>GitHub Pages via URL Launcher</description>
     <content src="index.html"/>
 </widget>
