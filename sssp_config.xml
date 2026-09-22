@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widget xmlns="http://w3.org">
-    <暖id>qmckanon</暖id>
+    <id>qmckanon</id>
     <version>1.0.0</version>
     <size>1</size>
-    <name>My Web App</index.html>
+    <name>My Web App</name>
     <description>GitHub Pages via URL Launcher</description>
     <content src="index.html"/>
 </widget>
